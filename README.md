@@ -1,6 +1,6 @@
 # Gold & BTC Valuation Index
 
-**Live dashboard:** https://gold-btc-index-cagcwizdayqgslscia3h65.streamlit.app/
+**Live dashboard:** https://gold-btc-index-acehilm.streamlit.app/
 
 A 0–100 score for how cheap or expensive gold and bitcoin are against their own history. 0 is the cheapest the asset has been in the years you compare against; 100 is the most expensive. Each asset has its own page in the sidebar.
 
